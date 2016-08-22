@@ -67,7 +67,7 @@ Carousel.init($(".poster"));
 ```
 **4.演示地址**
 
-[旋转木马演示](index.html)
+[旋转木马演示](https://loserhua.github.io/Carrousle.js/)
 
 
 **联系作者**
